@@ -1,0 +1,152 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/sprite/jump/_Jump-Spritesheet.png",
+                "frameConfig": {
+                    "frameWidth": 750,
+                    "frameHeight": 750,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "_Jump-Spritesheet"
+            },
+            {
+                "url": "assets/image/1.png",
+                "type": "image",
+                "key": "1"
+            },
+            {
+                "url": "assets/image/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/animation/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/image/back.png",
+                "type": "image",
+                "key": "back"
+            },
+            {
+                "url": "assets/image/background.jpg",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": [
+                    "assets/sound/backgroundMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "backgroundMusic"
+            },
+            {
+                "url": "assets/image/button.png",
+                "type": "image",
+                "key": "button"
+            },
+            {
+                "url": "assets/image/Character.png",
+                "type": "image",
+                "key": "Character"
+            },
+            {
+                "url": "assets/image/def_bg.png",
+                "type": "image",
+                "key": "def_bg"
+            },
+            {
+                "url": [
+                    "assets/sound/dieSound.mp3"
+                ],
+                "type": "audio",
+                "key": "dieSound"
+            },
+            {
+                "url": "assets/image/fill.png",
+                "type": "image",
+                "key": "fill"
+            },
+            {
+                "url": [
+                    "assets/sound/jumpSound.mp3"
+                ],
+                "type": "audio",
+                "key": "jumpSound"
+            },
+            {
+                "url": "assets/image/logo.png",
+                "type": "image",
+                "key": "logo"
+            },
+            {
+                "url": "assets/image/off.png",
+                "type": "image",
+                "key": "off"
+            },
+            {
+                "url": "assets/image/on.png",
+                "type": "image",
+                "key": "on"
+            },
+            {
+                "url": "assets/image/plane1.png",
+                "type": "image",
+                "key": "plane1"
+            },
+            {
+                "url": "assets/image/plane2.png",
+                "type": "image",
+                "key": "plane2"
+            },
+            {
+                "url": "assets/image/plane3.png",
+                "type": "image",
+                "key": "plane3"
+            },
+            {
+                "url": "assets/image/platform.png",
+                "type": "image",
+                "key": "platform"
+            },
+            {
+                "url": "assets/sprite/run/Spritesheet.png",
+                "frameConfig": {
+                    "frameWidth": 750,
+                    "frameHeight": 750,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Spritesheet"
+            },
+            {
+                "url": "assets/image/start-game.png",
+                "type": "image",
+                "key": "start-game"
+            },
+            {
+                "url": [
+                    "assets/sound/yaySound.mp3"
+                ],
+                "type": "audio",
+                "key": "yaySound"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
